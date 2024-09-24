@@ -8,11 +8,10 @@
 
  ## Files  
 - ReadMe.md   
-- Excel file   
-- Project rubric.pdf   
-- Requirements    
-- Reviewer grade    
-- <a href:'https://docs.google.com/spreadsheets/d/1hDhvD2rLWqTIpC-VM7UiGY5KNV7zBgNqXSTKkg4frL4/edit#gid=1221840239' target=_blank><u> NewYork_AirBnB_Listings.xlsx</u></a>   
+- <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Vacation%20Rental%20Market%20Analysis.xlsx'><u>Vacation Rental Market Analysis</u></a>     
+- <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Requirements.md'><u>Requirements</u></a>    
+- <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Reviewer%20grading%20.png'><u>Reviewer grade</u></a>  
+- <a href='https://docs.google.com/spreadsheets/d/1hDhvD2rLWqTIpC-VM7UiGY5KNV7zBgNqXSTKkg4frL4/edit#gid=1221840239' target=_blank><u> NewYork_AirBnB_Listings.xlsx</u></a>   
 
 
 ## Table of Content
@@ -25,19 +24,19 @@
 | Findings | Insights gathered after the data analysis. |
 
 ## Data
-The dataset contains information about the vacation rental market in the Manhattan borough of New York City from AirBnB listings. The data was provided by TripleTen on Google spreadsheet. 
+The dataset contains information about the vacation rental market in the Manhattan borough of New York City from Airbnb listings. The data was provided by TripleTen as a Google spreadsheet file. 
 
 ## Description
 - Delivered a 14-page spreadsheet document
-- In this document you'll find: organizational tabs, raw data, processed data, pivot tables for data analysis, and bar charts. 
+- In this document, you'll find organizational tabs, raw data, processed data, pivot tables for data analysis, and bar charts. 
 
-## Assumtions 
+## Assumptions 
 - Only short-term listings were considered for the Manhattan vacation rental analysis. 
 - Only properties with a minimum night requirement of 7 days or fewer were considered. 
-- Listings with no reviews from the last 12 months are most likely innactive. 
+- Listings with no reviews from the last 12 months are most likely inactive. 
 - Only properties with high review ratings were considered. 
 - Super luxury or extremely low-priced listings were filtered out. 
-- Calculated the annual revenue for the top five neighborhoods with 1 bedroom only. 
+- Calculated the annual revenue for the top five neighborhoods with 1 bedroom. 
 
 ## Process
 1. Explored, organized, and cleaned the data, documenting every step of the process.
