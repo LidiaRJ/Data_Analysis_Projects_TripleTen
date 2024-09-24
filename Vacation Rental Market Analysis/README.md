@@ -1,9 +1,10 @@
 # Vacation Rental Market Consulting
 
 ## Project Overview
- I completed a project analyzing the vacation rental market in Manhattan using Airbnb listing data. The goal was to identify property types with the best investment potential. I utilized advanced spreadsheet techniques to analyze pricing trends, property types, and occupancy rates, providing actionable insights to guide their investment strategy.
+ I completed a project analyzing the vacation rental market in Manhattan using Airbnb listing data. The goal was to identify property types with the best investment potential. I utilized advanced spreadsheet techniques to analyze pricing trends, property types, and occupancy rates, providing actionable insights to guide their investment strategy.   
+ 
+![image](https://github.com/user-attachments/assets/d2772a48-bbff-4acf-81c8-8915315c30d0)
 
- /*add image here */
 
  ## Files  
 - ReadMe.md   
