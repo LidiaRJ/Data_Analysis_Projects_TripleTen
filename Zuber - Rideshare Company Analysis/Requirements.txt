@@ -1,0 +1,7 @@
+Requirements: 
+- Find the number of rides for each taxi company for November 15-16, 2017.
+- Find the number of rides for every taxi company whose name contains the words "Yellow" and "Blue" for November 1-7, 2017.
+- Find the number of rides for the 2 most popular taxi companies. 
+- Retrieve the identifiers of the O'Hare and Loop neighborhoods. 
+- Retrieve the weather condition records for each hour. Categorize the descriptions into "Good" or "Bad". 
+- Retrieve all the rides that started in the Loop and ended at O'Hare neighborhood. 
