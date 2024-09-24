@@ -1,14 +1,14 @@
 # Vacation Rental Market Consulting
 
 ## Project Overview
- I completed a project analyzing the vacation rental market in Manhattan using Airbnb listing data. The goal was to identify property types with the best investment potential. I utilized advanced spreadsheet techniques to analyze pricing trends, property types, and occupancy rates, providing actionable insights to guide their investment strategy.   
+I completed a project analyzing the vacation rental market in Manhattan using Airbnb listing data. The goal was to identify property types with the best investment potential. I utilized advanced spreadsheet techniques to analyze pricing trends, property types, and occupancy rates, providing actionable insights to guide their investment strategy.   
  
 ![image](https://github.com/user-attachments/assets/d2772a48-bbff-4acf-81c8-8915315c30d0)
 
 
  ## Files  
 - ReadMe.md   
-- <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Vacation%20Rental%20Market%20Analysis.xlsx'><u>Vacation Rental Market Analysis</u></a>     
+- <a href='https://docs.google.com/spreadsheets/d/1JtMe2x7qr-eZiJfRVHrfxedo8BCluoGDFj4jsdc80lI/edit?usp=sharing'><u>Vacation Rental Market Analysis</u></a>     
 - <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Requirements.md'><u>Requirements</u></a>    
 - <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Vacation%20Rental%20Market%20Analysis/Reviewer%20grading%20.png'><u>Reviewer grade</u></a>  
 - <a href='https://docs.google.com/spreadsheets/d/1hDhvD2rLWqTIpC-VM7UiGY5KNV7zBgNqXSTKkg4frL4/edit#gid=1221840239' target=_blank><u> NewYork_AirBnB_Listings.xlsx</u></a>   
@@ -41,12 +41,12 @@ The dataset contains information about the vacation rental market in the Manhatt
 ## Process
 1. Explored, organized, and cleaned the data, documenting every step of the process.
 2. Filtered data based on requirements. 
-3. Performed calculations, and aggregate functions to determine the properties that should be considered as an investement. 
-4. Built pivot tables and charts to determine occupancy rates week day, and estimated revenue. 
-5. Optimized the documents formatting and finalized analysis documentation for stakeholder's readabiliy and understanding. 
+3. Performed calculations, and aggregate functions to determine the properties that should be considered as a potential investment. 
+4. Built pivot tables and charts to determine occupancy rates weekday, and estimated revenue. 
+5. Optimized the document formatting and finalized analysis documentation for stakeholder's readability and understanding. 
 
 ## Findings 
 - One-bedroom apartments in the top five neighborhoods with availability on Thursdays will likely provide an annual revenue of $75,903.31 with an average price per night of $307.47. 
-- The top five neighborhoods in order include: Lower East Side, Hells Kitchen, Harlem, Midtown and Upper West Side. 
+- The top five neighborhoods in order include Lower East Side, Hells Kitchen, Harlem, Midtown, and Upper West Side. 
 - Thurday has the highest occupancy rate based on the grand total percentage for each day of the week. 
-- One-bedroom appartments are the most popular properties for vacation rentals. 
+- One-bedroom apartments are the most popular properties for vacation rentals. 
