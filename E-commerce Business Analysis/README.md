@@ -3,6 +3,9 @@
 ## Project Overview
  This is an e-commerce cohort analysis project focused on converting raw transaction logs into actionable business metrics. My primary task was to create a conversion funnel to analyze how effectively the website transformed product page views into purchases. Additionally, I built acquisition cohorts based on users’ first purchase month and tracked their retention rates month by month, with a significant emphasis on preparing the data for cohort analysis.
 
+![image](https://github.com/user-attachments/assets/580ac793-1015-4529-baad-5ab2305b3e6d)
+
+
 ## Files 
 - README.md 
 - <a href='https://docs.google.com/spreadsheets/d/1FZjRxQ-1p2nEYt5tsLuV4qldkz2OfiyAIa4R035DDts/edit?usp=sharing' target=_blank><u>E-commerce Business Analysis</u></a>
@@ -30,11 +33,11 @@ The dataset has the following columns:
 * `event_date`: date of the user activity, in YYYY-MM-DD format   
 
 ## Description
-- Delivered a 8-page spreadsheet document.    
-- In this document you'll find organizational tab, raw data, purchase activity, conversion funnels, cohort analysis, and retention rates. 
+- Delivered an 8-page spreadsheet document.    
+- In this document, you'll find an organizational tab, raw data, purchase activity, conversion funnels, cohort analysis, and retention rates. 
 
 ## Assumptions
-- Only data relate to the user ID, event type, and tansaction date was used. 
+- Only data related to the user ID, event type, and transaction date was used. 
 - The conversion funnel illustrates the number of unique users at each stage of the conversion funnel, and how the percentage of the same follows a downward trend as we continue through the funnel. 
 - Retention rates are based on monthly user cohort percentages and fluctuations in user activity during each cohort year. 
 
@@ -47,5 +50,5 @@ The dataset has the following columns:
 6. Organize and document the spreadsheet for stakeholder review 
 
 ## Findings 
-- Covnersion funnel: Data suggests that only 1 out of 10 prospects that visit the e-commerce website make a purchase, while roughly 1/3 of the users in each funnel stage continue to the next step. 
+- Conversion funnel: Data suggests that only 1 out of 10 prospects that visit the e-commerce website make a purchase, while roughly 1/3 of the users in each funnel stage continue to the next step. 
 - Retention rate: In September, we retained 13% of users after the first month. The retention rate kept dropping, reaching a low of 4% in the 4th month. In our January 2021 cohort, we only retained 7% of users. 
