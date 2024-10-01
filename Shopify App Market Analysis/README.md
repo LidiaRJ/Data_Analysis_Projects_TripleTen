@@ -10,7 +10,7 @@ This independent project was part of the TripleTen Business Intelligence Curricu
 
  ## Files
 - README.md 
-- Requirements
+- <a href='https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Shopify%20App%20Market%20Analysis/Requirements.md' target=_blank><u>Requirements</u></a>
 - <a href='https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/shopify.xlsx' target=_blank><u>Shopify Dataset</u></a>
 
 ## Table of Content
