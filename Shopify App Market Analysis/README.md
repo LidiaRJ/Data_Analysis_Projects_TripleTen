@@ -3,7 +3,7 @@
  ## Project Overview 
  Using data scraped from publicly available Shopify websites, I reviewed user behavior to identify key factors contributing to the success of Shopify apps. Using insights from data visualization, I proposed strategies to help app developers optimize their app performance and increase adoption rates.
 
-This independent project was part of the TripleTen Business Intelligence Curriculum, where I utilized data storytelling techniques to uncover actionable insights in the e-commerce app ecosystem.
+This independent project was part of the TripleTen Business Intelligence Curriculum, where I utilized data storytelling techniques to uncover actionable insights in the e-commerce app ecosystem through Power BI.
 
 ![image](https://github.com/user-attachments/assets/84e147e8-49da-4c43-bad7-a40705b3011a)
 
