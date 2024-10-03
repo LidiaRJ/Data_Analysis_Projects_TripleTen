@@ -1,10 +1,7 @@
 # Data Job Postings Analysis
 
 ## Project Overview 
-
-1[image]
-
-## Files 
+In this project, I analyzed data on job postings from various job boards to identify the highest-paying remote jobs for data and business analysts in the US. The analysis also focused on uncovering the most demanded skills in general, and those associated with the highest-paying jobs specifically for data analysts. Additionally, I identified the most optimal skills for professionals to learn in this competitive market.
 
 ## Table of Content
 | Tab Title| Description | 
@@ -16,11 +13,11 @@
 | Findings | Insights gathered after the data analysis. |
 
 ## Data
-Dataset with information on data-related job postings from multiple job boards. The dataset contains information on 2023.   
-* `company_dim`: 
-* `job_postings_fact`:
-* `skills_dim`:
-* `skills_job_dim`:
+Dataset with information on data-related job postings from multiple job boards. The dataset contains information on 2023 and was provided by Luke Barousse.      
+* `company_dim` 
+* `job_postings_fact`
+* `skills_dim`
+* `skills_job_dim`
 
 ## Description & Tools
 - Created Postgress connections (database) and tables from scratch with SQL queries.
