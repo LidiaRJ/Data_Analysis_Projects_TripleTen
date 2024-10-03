@@ -8,7 +8,6 @@ In this project, I analyzed data on job postings from various job boards to iden
 | -------- | ------------|
 | Data | Overview of the data source |
 | Description | Basic information about the project goals and final deliverables. |
-| Assumptions | List of assumptions regarding the provided dataset made based on the task objectives and data. |
 | Process | General outline of the steps taken during the analysis. |
 | Findings | Insights gathered after the data analysis. |
 
@@ -23,8 +22,6 @@ Dataset with information on data-related job postings from multiple job boards. 
 - Created Postgress connections (database) and tables from scratch with SQL queries.
 - Created 5 SQL queries of different complexities to analyze the job market for analyst roles, focusing on salary and skills.
 - SQL Postgres, Visual Studio Code, pgAdmin4, and GitHub were used for this project.
-
-## Assumptions
 
 ## Process 
 - Using the job postings dataset, I performed joins and subqueries to identify top-paying jobs for data analyst roles in the US for 2023. 
@@ -129,6 +126,8 @@ LIMIT 5
 - Excel remains highly relevant, with 84,165 job postings highlighting its importance.
 - Python, a key programming language for data analysis, machine learning, and automation, ranks third with 65,423 job postings.
 - Tableau and Power BI, two leading data visualization tools, are in high demand, with 55,878 and 48,719 job postings, respectively.
+
+![image](https://github.com/LidiaRJ/Data_Projects_TripleTen/blob/main/Job%20Market%20Analysis%20for%20Data%20Roles/skills%20count.png)
 
 ### 4. The most optimal skills to learn
 Lastly, I combined data on skills in high demand associated with high average yearly salaries for Data and Business Analytics roles. 
