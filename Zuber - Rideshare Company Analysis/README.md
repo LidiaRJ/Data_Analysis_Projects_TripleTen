@@ -7,7 +7,7 @@ During this project, I analyzed patterns in the duration of rides from Loop to t
 
 ## Files 
 README.md   
-<a href= 'https://github.com/LidiaRJ/Rideshare-analysis/blob/main/Zuber%20-%20SLQ%20Data%20collection%20and%20processing.pdf' target=_blank><u>SLQ_query_code.pdf</u></a>   
+<a [href= 'https://github.com/LidiaRJ/Data_Analysis_Projects_TripleTen/blob/main/Zuber%20-%20Rideshare%20Company%20Analysis/Zuber%20-%20SQL%20Data%20collection%20and%20processing.pdf' target=_blank><u>SQL_query_code.pdf</u></a>   
 <a href='https://github.com/LidiaRJ/Rideshare-analysis/blob/main/Requirements.txt' target=_blank><u>Requirements.txt</u></a>
 
 ## Table of Content
@@ -70,7 +70,7 @@ A database with information on taxi rides in Chicago:
 
 ## Results 
 1. The taxi companies with the highest number of rides are Flash Cab and Taxi Affiliation Services, with 19,558 and 11,422 rides respectively between 11-15-2017 and 11-16-2017. 
-2. When searching by the keywords 'Yellow' and 'Blue' in the SLQ query, the companies Blue Diamond presented the highest amount of rides between 11-01-2017 and 11-07-2017. 
+2. When searching by the keywords 'Yellow' and 'Blue' in the SQL query, the companies Blue Diamond presented the highest amount of rides between 11-01-2017 and 11-07-2017. 
 3. The weather conditions for rides that happened during 11-01-2017 fall under the 'Good' weather category. 
 4. Retrieved the duration of rides that started at `pick_up_location_id`: 50 and `drop_off_location_id`:63, with the longest ride being 1380 seconds.
 
