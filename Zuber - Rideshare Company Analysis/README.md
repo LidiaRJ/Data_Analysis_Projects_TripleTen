@@ -7,7 +7,7 @@ During this project, I analyzed patterns in the duration of rides from Loop to t
 
 ## Files 
 README.md   
-<a [href= 'https://github.com/LidiaRJ/Data_Analysis_Projects_TripleTen/blob/main/Zuber%20-%20Rideshare%20Company%20Analysis/Zuber%20-%20SQL%20Data%20collection%20and%20processing.pdf' target=_blank><u>SQL_query_code.pdf</u></a>   
+<a href= 'https://github.com/LidiaRJ/Data_Analysis_Projects_TripleTen/blob/main/Zuber%20-%20Rideshare%20Company%20Analysis/Zuber%20-%20SQL%20Data%20collection%20and%20processing.pdf' target=_blank><u>SQL_query_code.pdf</u></a>   
 <a href='https://github.com/LidiaRJ/Rideshare-analysis/blob/main/Requirements.txt' target=_blank><u>Requirements.txt</u></a>
 
 ## Table of Content
