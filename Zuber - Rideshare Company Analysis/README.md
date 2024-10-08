@@ -3,7 +3,8 @@
 ## Project Overview 
 During this project, I analyzed patterns in the duration of rides from Loop to the O'Hare International Airport based on weather records and day of the week. The objective was to find patterns in competitors' data to understand passenger preferences and the impact of external factors on ride frequency.
 
-![image](https://github.com/user-attachments/assets/73085661-60bc-4e71-a3ac-cd7391257708)
+![image](https://github.com/user-attachments/assets/9073951d-08e3-4ecd-b615-2a1967b63a49)
+
 
 ## Files 
 README.md   
@@ -73,4 +74,13 @@ A database with information on taxi rides in Chicago:
 2. When searching by the keywords 'Yellow' and 'Blue' in the SQL query, the companies Blue Diamond presented the highest amount of rides between 11-01-2017 and 11-07-2017. 
 3. The weather conditions for rides that happened during 11-01-2017 fall under the 'Good' weather category. 
 4. Retrieved the duration of rides that started at `pick_up_location_id`: 50 and `drop_off_location_id`:63, with the longest ride being 1380 seconds.
+
+## Conclusions
+This analysis provides insights into market leaders in the taxi space, patterns based on weather, and ride duration behaviors for specific routes.
+The high number of rides from Flash Cab and Taxi Affiliation Services (19,558 and 11,422 rides respectively) indicates that these companies dominate the rideshare market within the specified period (11/15/2017 - 11/16/2017), suggesting strong customer loyalty or a large fleet of available cars compared to others.
+  
+Good weather typically leads to less disruption (fewer delays due to traffic or hazardous conditions), potentially explaining steady or higher ride volume. It could also suggest that users prefer to use rideshares even when weather conditions are favorable, indicating consistent demand regardless of weather.
+On the other hand, trips with longer ride duration (20+ minutes) were recorded under bad weather conditions, suggesting traffic congestion and slower driving speeds as the main factors affecting these rides.
+
+Further investigation could compare how bad weather impacts duration or explore trends by day and week to optimize operations.
 
