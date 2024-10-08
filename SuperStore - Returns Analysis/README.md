@@ -5,7 +5,7 @@ After thoroughly examining the Superstore's purchase and return data through Tab
 
 This was an independent project part of the TripleTen Business Intelligence Curriculum where I explored the implementation of Visualizations for data storytelling in a business setting.
 
-![image](![image](https://github.com/user-attachments/assets/7113cee4-c86f-410b-9600-0860d0097043)
+![image](https://github.com/user-attachments/assets/7113cee4-c86f-410b-9600-0860d0097043)
 
 
 <a href='https://public.tableau.com/views/Project5-Productreturnanalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>Tableau Public project link </u></a>
