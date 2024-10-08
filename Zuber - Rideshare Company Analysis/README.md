@@ -3,7 +3,7 @@
 ## Project Overview 
 During this project, I analyzed patterns in the duration of rides from Loop to the O'Hare International Airport based on weather records and day of the week. The objective was to find patterns in competitors' data to understand passenger preferences and the impact of external factors on ride frequency.
 
-![image](https://github.com/user-attachments/assets/9073951d-08e3-4ecd-b615-2a1967b63a49)
+![image](https://github.com/LidiaRJ/Data_Analysis_Projects_TripleTen/blob/main/Zuber%20-%20Rideshare%20Company%20Analysis/bar%20graph.png)
 
 
 ## Files 
