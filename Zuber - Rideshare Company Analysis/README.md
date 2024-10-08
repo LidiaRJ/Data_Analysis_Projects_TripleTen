@@ -49,7 +49,7 @@ A database with information on taxi rides in Chicago:
 * `description`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 ## Table Scheme
-![image](https://github.com/user-attachments/assets/30078fee-c6b5-4693-b37d-7365ce1a26c6)   
+![image](https://github.com/LidiaRJ/Data_Analysis_Projects_TripleTen/blob/main/Zuber%20-%20Rideshare%20Company%20Analysis/scheme.png)
 
 ## Description
 * A 6-step SQL query 
