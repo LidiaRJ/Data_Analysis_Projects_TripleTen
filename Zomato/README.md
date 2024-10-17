@@ -4,6 +4,8 @@
 This analysis aims to understand and group users based on common gender, income, and marital status to identify patterns in customer behavior, such as preferences and purchase habits.  
 **Objective**: Understand which types of customers contribute the most to the business and how their behaviors vary across different segments to optimize business operations, offerings, and positioning.   
 
+<a href='https://public.tableau.com/views/Zomatov3-Final/Demographicsegmentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' targe=_blank><u>Demographic Customer Segmentation Dashboard in Tableau</u></a>
+
 <image src='https://github.com/user-attachments/assets/aca507a4-5575-4c8d-a995-ca3a25e8cae8' width=550 height= auto>   
 <image src='https://github.com/user-attachments/assets/4f68496b-baab-4532-abf3-9ffd9ca7b6ea' width=550 height= auto>   
 
